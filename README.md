@@ -4,6 +4,8 @@ This project implements a complete firmware solution for acquiring Raman spectro
 
 ## 📜 Features
 
+[STM32_Blackpill_configuration.pdf](https://github.com/user-attachments/files/21761682/STM32_Blackpill_configuration.pdf)
+
 - **CCD Sensor Integration** – Controls the TCD1304 with precise clock, integration, and readout timing
 - **HAL-based Firmware** – Uses STM32 HAL for portability and maintainability  
 - **USB CDC Data Transfer** – Streams spectral data directly to a PC
