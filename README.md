@@ -333,9 +333,7 @@ SOFTWARE.
 **Nikhil C P**
 - Specializing in AI, Robotics, and Embedded Systems
 - Passionate about scientific instrumentation and spectroscopy
-- Email: [your.email@example.com]
-- GitHub: [@yourgithub]
-- LinkedIn: [Your LinkedIn Profile]
+
 
 ## 🙏 Acknowledgments
 
